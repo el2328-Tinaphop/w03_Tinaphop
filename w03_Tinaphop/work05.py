@@ -8,3 +8,6 @@ print(Fruit)
 Delete_Item = Fruit.Pop(2)
 print(Delete_Item)
 print(Fruit)
+
+Del Fruit[0]
+Fruit_Clear()
