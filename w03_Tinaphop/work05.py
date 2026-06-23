@@ -1,7 +1,7 @@
 # ลบข้อมูลใน List
 Fruit = [ "Apple" , "Banana" , "Mango" , "Melon" , "Orange"]
 
-# ลบข้อมูล
+# ลบคำตามที่ต้องการ
 Fruit.Remove("Banana")
 print(Fruit)
 
